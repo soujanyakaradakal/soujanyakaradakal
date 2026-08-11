@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soujanya Karadakal
 
-🎯 **Aspiring SOC Analyst | Cybersecurity Enthusiast | IoT Security Researcher**
+🎯 **Aspiring SOC Analyst | Cybersecurity Enthusiast 
 
 📍 Bangalore, India | 📧 soujanyakaradakal@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/soujanya-karadakal)
 
